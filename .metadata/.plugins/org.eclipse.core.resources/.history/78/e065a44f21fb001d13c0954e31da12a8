@@ -1,0 +1,10 @@
+#form{
+	display: flex;
+	flex-direction: column;
+	background-color: green;
+	height :50vh;
+	width :50vw;
+	justify-content: center;
+	align-items: center;
+	
+}

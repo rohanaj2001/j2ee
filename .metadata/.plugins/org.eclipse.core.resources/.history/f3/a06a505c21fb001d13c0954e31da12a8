@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel='stylesheet' type='text/css' href='./index.css'>
+</head>
+<body>
+<form method="post" action="backend" id="form">
+Enter your Name:<input type="text" placeholder="Rohan">
+Enter your salary:<input type="number" placeholder="Rohan">
+Enter tax:<input type="number" placeholder="Rohan">
+</form>
+</body>
+</html>

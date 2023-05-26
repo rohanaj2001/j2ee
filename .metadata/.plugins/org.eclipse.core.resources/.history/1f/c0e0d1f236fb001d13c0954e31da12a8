@@ -1,0 +1,8 @@
+package prog9;
+
+public class NumberWordThreadDemo {
+	 public static void main(String[] args) {
+		 
+		 System.out.println("Number of vowels in the word: ");
+	 }
+}

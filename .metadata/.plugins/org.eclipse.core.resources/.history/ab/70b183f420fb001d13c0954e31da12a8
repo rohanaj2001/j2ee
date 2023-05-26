@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form method="post" action="backend">
+Enter your Name:<input type="text" placeholder="Rohan">
+Enter your salary:<input type="number" placeholder="Rohan">
+Enter tax:<input type="number" placeholder="Rohan">
+</form>
+</body>
+</html>
